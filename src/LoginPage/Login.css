@@ -1,0 +1,16 @@
+.body{
+   background-color: rgb(184, 166, 166);
+   height: 100%;
+   width: 100%;
+}
+.err_message{
+   font-size: 13px;
+   color: darkred;
+   float: left;
+}
+.header{
+   background-color: blanchedalmond;
+}
+.headerPara{
+   font-size: 2vw;
+}

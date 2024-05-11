@@ -1,0 +1,10 @@
+.reg-body{
+    width: 100%;
+}
+.reg_body{
+    background-color: #C9CCCA;
+    color:black;
+}
+.is-danger{
+    color: rgb(216, 53, 53);
+}
